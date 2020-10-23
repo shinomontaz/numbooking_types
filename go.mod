@@ -1,3 +1,3 @@
-module numbooking_types
+module github.com/shinomontaz/numbooking_types
 
 go 1.14
